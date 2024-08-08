@@ -274,7 +274,7 @@ var cnItems = {
     "Restore data from clipboard": "从剪贴板导入存档数据",
     "Save data to clipboard": "导出存档到剪贴板",
     "Mai Pudde": "阳光小锅巴",
-    "": "",
+    "Terry": "特里",
     "": "",
     "": "",
     "": "",
