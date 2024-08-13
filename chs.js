@@ -146,7 +146,7 @@ var cnItems = {
     "Choose a card for this slot": "为这个插槽选择一张卡",
     "filter": "过滤器",
     "Activities": "活动",
-    "Build your deck to play in tournaments. Your opponents always plays cards in the same order so you have to figure out which order to play your cards to win.": "建造你的桥牌来参加比赛。你的对手总是以相同的顺序出牌，所以你必须弄清楚出牌的顺序才能赢。",
+    "Build your deck to play in tournaments. Your opponents always plays cards in the same order so you have to figure out which order to play your cards to win.": "建造你的牌组来参加比赛。你的对手总是以相同的顺序出牌，所以你必须弄清楚出牌的顺序才能赢。",
     "Casual Wednesday": "休闲星期三",
     "Competitive Saturday": "竞技星期六",
     "Friday Night Fun": "周五狂欢夜",
